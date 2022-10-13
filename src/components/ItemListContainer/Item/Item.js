@@ -1,4 +1,4 @@
-import Contador from '../../Contador/Contador'
+import Contador from '../../ItemCount/ItemCount';
 import './item.css'
 import { NavLink } from "react-router-dom";
 
